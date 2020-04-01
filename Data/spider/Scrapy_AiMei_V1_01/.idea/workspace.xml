@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b6aa501-05ba-4160-8f8b-598e97039d12" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#193#223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+              <folding>
+                <element signature="e#170#196#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aimei.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#25#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/AiMei_V1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding>
+                <element signature="e#24#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/Aimei_V2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <caret line="55" column="44" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+              <folding>
+                <element signature="e#24#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>4001017</find>
+      <find>4001011002</find>
+      <find>洪都拉斯</find>
+      <find>新英格兰</find>
+      <find>4001001006002001003011</find>
+      <find>4001001006002001004005</find>
+      <find>4001001005001001001001001001</find>
+      <find>4001001006002003001003001</find>
+      <find>4001006008001001001004</find>
+      <find>4001006010002001001001</find>
+      <find>4001008007</find>
+      <find>400100501</find>
+      <find>400100601</find>
+      <find>400100401</find>
+      <find>烽火电子</find>
+      <find>&quot;4001003005001001001001001003</find>
+      <find>&quot;400100300500100100100100100</find>
+      <find>new_cate_list</find>
+      <find>retryt</find>
+      <find>400100200</find>
+      <find>4001002006</find>
+      <find>with</find>
+      <find>INFO</find>
+      <find>4001002007001004001004</find>
+      <find>SMTP_SERVER</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/items.py" />
+        <option value="$PROJECT_DIR$/AiMeiData_V1.py" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/middlewares.py" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/cate_list.csv" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/new_cate_list.csv" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/isCountry.py" />
+        <option value="$USER_HOME$/Desktop/mulu_mysql.py" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/retryt.txt" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/new_cate_list.txt" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/pipelines.py" />
+        <option value="$PROJECT_DIR$/Aimei.py" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/s2/Aimei_V2.py" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/Aimei_V2.py" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/AiMei_V1.py" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/new_cate_list5.txt" />
+        <option value="$USER_HOME$/scrapydweb_settings_v10.py" />
+        <option value="E:/资讯爬虫/Date/fenglifadian4.dat" />
+        <option value="E:/资讯爬虫/Date/readddd.py" />
+        <option value="$PROJECT_DIR$/scrapy.cfg" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1280" />
+    <option name="height" value="1406" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scrapy_AiMei_V1_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy_AiMei_V1_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scrapy_AiMei_V1_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy_AiMei_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy_AiMei_V1_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scrapy_AiMei_V1_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy_AiMei_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy_AiMei_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="s2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scrapy_AiMei_V1_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scrapy_AiMei_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="Scrapy_AiMei_V1_01" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Scrapy_Jianzhu_V1_01" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AimeiData\Scrapy_AiMei_V1_01\Scrapy_AiMei_V1_01\spiders" />
+      <recent name="E:\AimeiData\Scrapy_AiMei_V1_01\Scrapy_AiMei_V1_01\s2" />
+      <recent name="E:\AimeiData\Scrapy_AiMei_V1_01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AimeiData\Scrapy_AiMei_V1_01\Scrapy_AiMei_V1_01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.readddd">
+    <configuration name="AiMei_V1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_AiMei_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/AiMei_V1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aimei" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_AiMei_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aimei.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aimei_V2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_AiMei_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/Aimei_V2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aimei_V2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_AiMei_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy_AiMei_V1_01/s2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\AimeiData\Scrapy_AiMei_V1_01\Scrapy_AiMei_V1_01\spiders\Aimei_V2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readddd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Scrapy_AiMei_V1_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/资讯爬虫/Date" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/资讯爬虫/Date/readddd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.readddd" />
+        <item itemvalue="Python.AiMei_V1" />
+        <item itemvalue="Python.Aimei_V2 (1)" />
+        <item itemvalue="Python.Aimei_V2" />
+        <item itemvalue="Python.Aimei" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b6aa501-05ba-4160-8f8b-598e97039d12" name="Default Changelist" comment="" />
+      <created>1578532240681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578532240681</updated>
+      <workItem from="1578532245976" duration="88862000" />
+      <workItem from="1579405605819" duration="32771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121633000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="2578" height="1424" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10942492" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49970222" weight="0.37042925" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002978" side_tool="true" weight="0.53962266" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3298887" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10942492" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49970222" weight="0.4554849" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002978" side_tool="true" weight="0.53962266" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3298887" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Scrapy_AiMei_V1_01$AiMei_V1.coverage" NAME="AiMei_V1 Coverage Results" MODIFIED="1579481353546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_AiMei_V1_01$isCountry.coverage" NAME="isCountry Coverage Results" MODIFIED="1578555267936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_AiMei_V1_01" />
+    <SUITE FILE_PATH="coverage/Scrapy_AiMei_V1_01$Aimei_V2__1_.coverage" NAME="Aimei_V2 (1) Coverage Results" MODIFIED="1579427023992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_AiMei_V1_01$Aimei.coverage" NAME="Aimei Coverage Results" MODIFIED="1579426492476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Scrapy_AiMei_V1_01$Aimei_V2.coverage" NAME="Aimei_V2 Coverage Results" MODIFIED="1579426915815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_AiMei_V1_01/s2" />
+    <SUITE FILE_PATH="coverage/Scrapy_AiMei_V1_01$readddd.coverage" NAME="readddd Coverage Results" MODIFIED="1579502240842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/资讯爬虫/Date" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/proxy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/cate_file1.text" />
+    <entry file="file://E:/2019.12.31/Scrapy_yyjxh_V1_01/Scrapy_yyjxh_V1_01/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/cate_list2.text" />
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/cate_list1.text" />
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/cate_file2.text" />
+    <entry file="file://$PROJECT_DIR$/AiMeiData_V1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/2019.12.31/Scrapy_yyjxh_V1_01/Scrapy_yyjxh_V1_01/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="105" column="28" lean-forward="true" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/cate_list.text" />
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/cate_list.txt" />
+    <entry file="file://$USER_HOME$/Desktop/mulu_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/retryt.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2266">
+          <caret line="103" column="21" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/retryt2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/new_cate_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="26154" column="71" selection-start-line="26154" selection-start-column="71" selection-end-line="26154" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/cate_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="5134" column="56" selection-start-line="5134" selection-start-column="56" selection-end-line="5134" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/new_cate_list.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/cate_list.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-904">
+          <caret line="411" column="40" selection-start-line="411" selection-start-column="20" selection-end-line="411" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/retryt5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aimei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#25#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/isCountry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/scrapydweb_settings_v10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/资讯爬虫/Date/data_Energy.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="662">
+          <caret line="3186" column="123" selection-start-line="3186" selection-start-column="123" selection-end-line="3186" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/资讯爬虫/Date/test.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="145" selection-start-line="8" selection-start-column="145" selection-end-line="8" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/资讯爬虫/Date/all.dat">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="132">
+          <caret line="6" column="140" selection-start-line="6" selection-start-column="140" selection-end-line="6" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/资讯爬虫/Date/fenglifadian3.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#193#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#170#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/资讯爬虫/Date/fenglifadian4.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="88" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/资讯爬虫/Date/readddd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/Aimei_V2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <caret line="55" column="44" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+          <folding>
+            <element signature="e#24#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/new_cate_list5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151328">
+          <caret line="1866" column="51" lean-forward="true" selection-start-line="1866" selection-start-column="51" selection-end-line="1866" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_AiMei_V1_01/spiders/AiMei_V1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#24#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

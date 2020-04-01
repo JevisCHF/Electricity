@@ -1,0 +1,13 @@
+<GET http://user.askci.com/BookList/?tagName=%E7%94%B5%E5%8A%9B%E5%8F%8A%E8%AE%BE%E5%A4%87>
+<GET http://user.askci.com/booklist/?tagname=%E7%94%B5%E5%8A%9B&isfree=0&pagenum=2>
+<GET http://user.askci.com/booklist/?tagname=%E7%94%B5%E5%8A%9B&isfree=0&pagenum=2>
+<GET http://user.askci.com/booklist/?tagname=%E9%A3%8E%E7%94%B5&isfree=0&pagenum=2>
+<GET http://user.askci.com/booklist/?tagname=%E7%81%AB%E7%94%B5&isfree=0&pagenum=2>
+<GET http://user.askci.com/booklist/?tagname=%E7%94%B5%E5%8A%9B&isfree=0&pagenum=1>
+<GET http://user.askci.com/booklist/?tagname=%E7%94%B5%E5%8A%9B&isfree=0&pagenum=1>
+<GET http://user.askci.com/booklist/?tagname=%E7%94%B5%E5%8A%9B&isfree=0&pagenum=1>
+<GET http://wk.askci.com/Search/%E7%94%B5%E5%8A%9B/>
+<GET http://wk.askci.com/Search/%E7%94%B5%E5%8A%9B/>
+<GET http://user.askci.com/booklist/?tagname=%E7%94%B5%E5%8A%9B&isfree=0&pagenum=1>
+<GET http://user.askci.com/booklist/?tagname=%E9%A3%8E%E7%94%B5&isfree=0&pagenum=1>
+<GET http://wk.askci.com/details/22e88810674a4fa78bc0cb6365dfd51a/>
